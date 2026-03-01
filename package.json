@@ -1,0 +1,23 @@
+{
+  "name": "datadash-playwright-qa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishalG2302/datadash-playwright-qa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishalG2302/datadash-playwright-qa/issues"
+  },
+  "homepage": "https://github.com/vishalG2302/datadash-playwright-qa#readme",
+  "dependencies": {
+    "playwright": "^1.58.2"
+  }
+}
